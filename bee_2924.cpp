@@ -1,14 +1,4 @@
-/*Sua tarefa é encontrar um número C, sendo que C = A + B, sabendo que 
-0
-≤
-A
-,
-B
-,
-C
-≤
-2
-512
+/*Sua tarefa é encontrar um número C, sendo que C = A + B, sabendo que 0≤A,B,C ≤ 2^512
  e A e B são inteiros.
 
 Entrada
