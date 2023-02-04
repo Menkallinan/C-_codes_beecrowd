@@ -1,3 +1,21 @@
+/*Sua tarefa é encontrar um número C, sendo que C = A + B, sabendo que 
+0
+≤
+A
+,
+B
+,
+C
+≤
+2
+512
+ e A e B são inteiros.
+
+Entrada
+A entrada consiste em duas linhas, cada uma contendo um dos números A e B.
+
+Saída
+A saída consiste de uma linha, contendo C.*/
 
 #include <list>
 #include<vector>
@@ -37,7 +55,7 @@ void add(vector<int>vetor1, vector<int>vetor2){
         
     for (auto it = awnser.begin(); it !=awnser.end(); ++it)
         cout <<*it;
-    printf("\n");
+    cout<<endl;
 }
 
 int main()
